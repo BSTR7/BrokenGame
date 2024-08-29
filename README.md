@@ -31,4 +31,4 @@ En el nivel final, el jugador encuentra a una princesa. Al interactuar con ella,
 
 Colaboradores
 [LucasJS28](https://github.com/LucasJS28)
-[BSTR7CL]([https://github.com/LucasJS28](https://github.com/BSTR7))
+[BSTR7CL](https://github.com/BSTR7)
