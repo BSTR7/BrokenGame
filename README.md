@@ -1,4 +1,4 @@
-#Proyecto Final - Videojuego Estilo PolyArt|
+# Proyecto Final - Videojuego Estilo PolyArt|
 
 **Este es el proyecto final para la asignatura de Programación de Videojuegos, desarrollado en colaboración con [LucasJS28](https://github.com/LucasJS28) . El juego presenta un estilo visual de PolyArt y consta de cinco mapas, cada uno con mecánicas únicas y desafíos que el jugador debe superar.**
 
